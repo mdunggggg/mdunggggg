@@ -1,4 +1,6 @@
-<img alt="banner" style="width:100vw" src="https://i.pinimg.com/originals/19/b2/8c/19b28c8372aaec65623f7ee7332e74be.gif">
+<div align="center">
+    <img src="https://i.pinimg.com/originals/19/b2/8c/19b28c8372aaec65623f7ee7332e74be.gif" alt="banner" style="max-width: 70%; height: auto;">
+</div>
 
 <h1 align="center">Hi 👋, I'm Dung</h1>
 <h3 align="center">I am a Mobile Developer</h3>
